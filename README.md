@@ -12,17 +12,22 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação e sempre est
 Estou em uma jornada contínua de aprendizado. Aqui estão algumas das tecnologias nas quais estou mergulhando:
 
 - Spring MVC
-- Spring Data & JPA 
-- Spring Boot
+- Spring Data & JPA
+- Spring Web
 - Spring Security
+- SQL Language
+- Docker
+- Swagger Api Documentation
+- Migrations com FlyWay
+- RabbitMQ
 
 ## 💼 Meus Projetos
 
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
-1. [Projeto 1]: Sistema De Distribudiora De Energia!
-2. [Projeto 2]: Breve descrição do projeto e link
-3. [Projeto 3]: Breve descrição do projeto e link
+1. [Projeto 1]: Sistema De Distribudiora De Energia! - []
+2. [Projeto 2]: API de Gerenciamento de Estoque, Vendas, Vendedores e Clientes - []
+3. [Projeto 3]:[]
 
 Sinta-se à vontade para conferir e fornecer feedback!
 
@@ -32,7 +37,7 @@ Estou aberto a colaborações em projetos interessantes. Se você tiver uma idei
 
 ## 📫 Como Entrar em Contato
 
-- Email: [Seu Email]
+- Email: pedrohenriquepsantos2000@gmail.com
 - LinkedIn: [Seu Perfil no LinkedIn]
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida, quiser colaborar ou apenas bater um papo sobre tecnologia!
