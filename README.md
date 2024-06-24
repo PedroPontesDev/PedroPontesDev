@@ -25,9 +25,10 @@ Estou em uma jornada contínua de aprendizado. Aqui estão algumas das tecnologi
 
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
-1. [Projeto 1]: Sistema De Distribudiora De Energia! - []
-2. [Projeto 2]: API de Gerenciamento de Estoque, Vendas, Vendedores e Clientes - []
-3. [Projeto 3]:[]
+1. [Projeto 3]:O Mordomo - Gerenciador e Gestor de Restaurantes de Todos os Portes - [https://github.com/PedroPontesDev/oMordomo]
+2. [Projeto 1]: Sistema De Distribudiora De Energia! - [https://github.com/PedroPontesDev/SistemaDistribuidoraDeEnergia]
+3. [Projeto 2]: API de Gerenciamento de Estoque, Vendas, Vendedores e Clientes - [https://github.com/PedroPontesDev/SalesManagmentAPI]
+
 
 Sinta-se à vontade para conferir e fornecer feedback!
 
