@@ -29,7 +29,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 
 2. [Projeto 1]: CoinNect -> Sistema de contratação de prestadores de serviços baseado em quilometragem e contratos - [https://github.com/PedroPontesDev/CoinNect]
 
-3. [Projeto 2]: LigthRJ -> - [https://github.com/PedroPontesDev/SalesManagmentAPI](https://github.com/PedroPontesDev/SistemaDistribuidoraDeEnergia)]
+3. [Projeto 2]: LeilaoME -> Sistema/WebService de Trading de Leilões de Produtos Online - [https://github.com/PedroPontesDev/LeilaoME]
 
 
 Sinta-se à vontade para conferir e fornecer feedback!
