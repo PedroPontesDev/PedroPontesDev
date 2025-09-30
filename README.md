@@ -20,6 +20,7 @@ Estou em uma jornada contínua de aprendizado. Aqui estão algumas das tecnologi
 - Swagger Api Documentation
 - Migrations com FlyWay
 - RabbitMQ
+- CI/CD com AWS
 
 ## 💼 Meus Projetos
 
